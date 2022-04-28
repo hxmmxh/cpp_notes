@@ -1,0 +1,4 @@
+C:/Users/hxm/OneDrive/Project/my_fully/bin/CMakeFiles/stest.dir
+C:/Users/hxm/OneDrive/Project/my_fully/bin/CMakeFiles/HString.dir
+C:/Users/hxm/OneDrive/Project/my_fully/bin/CMakeFiles/ALL_BUILD.dir
+C:/Users/hxm/OneDrive/Project/my_fully/bin/CMakeFiles/ZERO_CHECK.dir
